@@ -1,21 +1,3 @@
-# darmawan
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 # Proyek Pemrograman Mobile
 
 ## Deskripsi
@@ -29,3 +11,26 @@ Nama panggilan / akun GitHub: Darmawan
 ## Status
 
 Proyek awal perkuliahan.
+
+## Tujuan
+
+Proyek ini bertujuan untuk mempelajari dasar-dasar pengembangan aplikasi mobile menggunakan Flutter serta memahami penggunaan Git dan GitHub untuk pengelolaan versi dan kolaborasi dalam pengembangan perangkat lunak.
+
+## Rencana Fitur
+
+1. Menampilkan halaman utama aplikasi.
+2. Menambahkan navigasi antarhalaman.
+3. Menambahkan fitur dan antarmuka sesuai kebutuhan pengembangan aplikasi.
+4. Mengembangkan aplikasi secara bertahap menggunakan Flutter.
+
+## Cara Menjalankan
+
+1. Pastikan Flutter dan Git sudah terpasang.
+2. Clone repository ke komputer.
+3. Buka folder proyek menggunakan Visual Studio Code atau IDE lainnya.
+4. Jalankan perintah berikut pada terminal:
+
+```bash
+flutter pub get
+flutter run
+```
